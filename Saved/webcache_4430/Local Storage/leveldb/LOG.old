@@ -1,2 +1,3 @@
-2023/11/30-11:42:06.081 487c Creating DB E:/Unreal Engine/Hellchains/Hellchains_Repo/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/11/30-11:42:06.088 487c Reusing MANIFEST E:/Unreal Engine/Hellchains/Hellchains_Repo/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/12/04-15:13:01.030 3354 Reusing MANIFEST E:/Unreal Engine/Hellchains/Hellchains_Repo/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/12/04-15:13:01.033 3354 Recovering log #3
+2023/12/04-15:13:01.033 3354 Reusing old log E:/Unreal Engine/Hellchains/Hellchains_Repo/Saved/webcache_4430\Local Storage\leveldb/000003.log 
