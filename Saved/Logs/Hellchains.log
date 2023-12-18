@@ -5039,3 +5039,18 @@ UnknownFunction []
 [2023.12.18-21.16.59:004][624]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Level3_test_scene_and_art' took 0.049
 [2023.12.18-21.16.59:004][624]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
 [2023.12.18-21.19.09:704][256]LogDerivedDataCache: C:/Users/7belo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:47.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 32317 files in 18480 folders with total size 7485 MiB.
+[2023.12.18-21.55.12:572][955]LogMaterialEditor: Saving and Compiling material MT_walls_test
+[2023.12.18-21.55.12:691][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-21.55.12:721][955]LogSavePackage: Moving output files for package: /Game/TestAssets/Texture/MT_walls_test
+[2023.12.18-21.55.12:721][955]LogSavePackage: Moving '../../../../../../Users/7belo/Documents/gameDevelop/Hellchains/Hellchains_Repo/Saved/MT_walls_test052ED06047CD8BEB8CDE798C929353C0.tmp' to '../../../../../../Users/7belo/Documents/gameDevelop/Hellchains/Hellchains_Repo/Content/TestAssets/Texture/MT_walls_test.uasset'
+[2023.12.18-21.55.12:727][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1.20 sec)
+[2023.12.18-21.55.12:728][955]AssetCheck: New page: Asset Save: MT_walls_test
+[2023.12.18-21.55.12:728][955]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TestAssets/Texture/MT_walls_test.MT_walls_test
+[2023.12.18-21.55.14:657][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-21.55.14:716][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.12.18-21.55.14:749][ 91]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Level3_test_scene_and_art
+[2023.12.18-21.55.14:750][ 91]LogSavePackage: Moving '../../../../../../Users/7belo/Documents/gameDevelop/Hellchains/Hellchains_Repo/Saved/Level3_test_scene_and_art0DE452CA4288F946E53D6CA251D0A91D.tmp' to '../../../../../../Users/7belo/Documents/gameDevelop/Hellchains/Hellchains_Repo/Content/FirstPerson/Maps/Level3_test_scene_and_art.umap'
+[2023.12.18-21.55.14:755][ 91]LogFileHelpers: Saving map 'Level3_test_scene_and_art' took 0.070
+[2023.12.18-21.55.14:761][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.30 sec)
+[2023.12.18-21.55.14:762][ 91]AssetCheck: New page: Asset Save: Level3_test_scene_and_art
+[2023.12.18-21.55.14:762][ 91]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/Level3_test_scene_and_art.Level3_test_scene_and_art
